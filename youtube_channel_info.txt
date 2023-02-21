@@ -2,80 +2,62 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-연합뉴스TV | 韩国 |  |
-https://www.youtube.com/watch?v=0GN8t2u3flc/live
+Bloomberg Global Financial | News ||
+https://www.youtube.com/watch?v=dp8PhLsUcFE	
 
-CCTV4 | China |  |
-https://www.youtube.com/watch?v=QTz6avPD4Ns
-4K | 4k |  |
-https://www.youtube.com/watch?v=rw7bxTqkYYs
+Sky News |News||
+https://www.youtube.com/watch?v=9Auq9mYxFEE	
 
-4K | 4k |  |
-https://www.youtube.com/watch?v=tAuXNZ5TSlA
+CNA |News||
+https://www.youtube.com/watch?v=XWq5kBlakcQ	
 
-空间站1 | 世界 |  |
-https://www.youtube.com/watch?v=mBzrxNHF2u8
+Al Jazeera English	 |News||
+https://www.youtube.com/watch?v=GEumHK0hfdo	
 
-空间站2 | 世界 |  |
-https://www.youtube.com/watch?v=ddZu_1Z3BAc
+ABC News	|News||
+https://www.youtube.com/watch?v=w_Ma8oQLmSM	
 
-中天新闻 |台湾||
-https://www.youtube.com/watch?v=_QbRXRnHMVY
+France24 EN	 |News||
+https://www.youtube.com/watch?v=h3MuIUNCCzI	
 
-TVBS |台湾||
-https://www.youtube.com/watch?v=2mCSYvcfhtc
+CBS News |News||
+https://www.youtube.com/watch?v=nlTwScpBZhE
 
-台視新聞台 |台湾||
-https://www.youtube.com/watch?v=xL0ch83RAK8
+ABC News (AU)	|News||
+https://www.youtube.com/watch?v=vOTiJkg1voo	
 
-三立海外直播 |台湾||
-https://www.youtube.com/watch?v=FoBfXvlOR6I
+镜新闻 |台湾||
+https://www.youtube.com/watch?v=5n0y6b0Q25o	
 
-中視新聞 |台湾||
-https://www.youtube.com/watch?v=TCnaIE_SAtM
+东森新闻 | 台湾 | |
+https://www.youtube.com/watch?v=R2iMq5LKXco	
 
-寰宇新聞台 |台湾||
-https://www.youtube.com/watch?v=B7Zp3d6xXWw
-
-国家地理 |世界||
-https://www.youtube.com/watch?v=OQz-efDv01k
-
-YTN | 韩国 |  |
-https://www.youtube.com/watch?v=vEO6wO0QsX8
-
-KBS | 韩国 |  |
-https://www.youtube.com/watch?v=1WhB1z0bWGs
-
-熊猫直播  |世界||
-https://www.youtube.com/watch?v=gNGolYPBy2E
-
-ABC  |英语||
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
-
-凤凰卫视HD  |香港||
-https://www.youtube.com/watch?v=xyyvJ_KgTlg
-
-热门音乐  |香港||
-https://www.youtube.com/watch?v=wrYF0HX7Kzc
-
-欧美音乐  |香港||
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-欧美音乐1  |香港||
-https://www.youtube.com/watch?v=oVu-aAMV9c8
+东森财经股市 | 台湾 | |
+https://www.youtube.com/watch?v=LbS-xQ67fos	
 
 三立新闻 |台湾||
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
-東森新聞  |台湾||
-https://www.youtube.com/watch?v=R2iMq5LKXco
+中天新闻  |台湾||
+https://www.youtube.com/watch?v=_QbRXRnHMVY	
 
-東森財經新聞  |台湾||
-https://www.youtube.com/watch?v=WHEPzbFA3hw
+寰宇新闻  |台湾||
+https://www.youtube.com/watch?v=B7Zp3d6xXWw	
 
-机场免费节点 |||
-https://www.youtube.com/watch?v=0LFElpy53aU
+中视新闻 |台湾||
+https://www.youtube.com/watch?v=TCnaIE_SAtM	
 
-東森娛樂台live |
-https://www.youtube.com/watch?v=AH053CqyXWg
+台视新闻 |台湾||
+https://www.youtube.com/watch?v=xL0ch83RAK8	
 
+TVBS新闻 |台湾||
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+台视新闻 |台湾||
+https://www.youtube.com/watch?v=xL0ch83RAK8	
+
+English Speaking Practice - Daily Conversations	 |English Learning||
+https://www.youtube.com/watch?v=6JP9akIOw-0
+
+English Listening Practice - Daily Conversations	 |English Learning||
+https://www.youtube.com/watch?v=UaOLcufke9A
